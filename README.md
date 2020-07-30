@@ -26,7 +26,7 @@ The analysis of the election show that:
     - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 - The winner of the election was:
     - Candidate (Diana DeGette), who received "73.8%" of the vote and "272,892" number of votes.
-
+    
 ## Challenge Overview
 The election commission has requested some additional data to complete the audit:
 
@@ -56,3 +56,12 @@ The analysis of the election show that:
     - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 - The winner of the election was:
     - Candidate (Diana DeGette), who received "73.8%" of the vote and "272,892" number of votes.
+    
+## Screenshot of the results are shown below:
+### Output to Terminal
+!["Challenge Output to Terminal "](./Resources/election_results_terminal.png "Output to Terminal")
+
+### Output to File
+!["Challenge Output to File "](./Resources/election_results_file.png "Output to File")
+
+## Future Proposal
