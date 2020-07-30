@@ -65,3 +65,9 @@ The analysis of the election show that:
 !["Challenge Output to File "](./Resources/election_results_file.png "Output to File")
 
 ## Future Proposal
+I would like to propose the following changes to the script, so that we could use the program for other elections in the state.
+  - We could prompt user for inputting the name of the file to analyze rather than hardcoding the name in the python program.
+  - We could also change the code to read the input folder for all election files, analyze each file at a time, and output the results' files into output folder with a name corresponding to the read input file, so the results can be found easily.
+  - We could combine both of these into a menu option, where one option will let the user to manually enter a filename to process, and another option to enter a folder that has input files to process.
+  
+By doing the above modifications any election file that has the above CSV structure could be processed and a corresponding results file could be generated.
